@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=34:4A:9B:9C:B4:80:63:7B:ED:D6:1E:AA:42:26:8C:75:12:2D:81:C5%3Bcom.example.punked.tourguideapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    34:4A:9B:9C:B4:80:63:7B:ED:D6:1E:AA:42:26:8C:75:12:2D:81:C5
+
+    SHA-1 certificate fingerprint:
+    34:4A:9B:9C:B4:80:63:7B:ED:D6:1E:AA:42:26:8C:75:12:2D:81:C5
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBeSQhCPgQfk5G9x4p77IkOvTI1fDI0OGw</string>
+</resources>

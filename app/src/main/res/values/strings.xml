@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="varna_info">Varna (Bulgarian: Варна) is the third largest city in Bulgaria and the
+        largest city and seaside resort on the Bulgarian Black Sea Coast. Situated strategically in
+        the Gulf of Varna, the city has been a major economic, social and cultural centre for almost
+        three millennia. Varna, historically known as Odessos, grew from a Thracian seaside settlement
+        to a major seaport on the Black Sea. Varna is an important centre for business, transportation,
+        education, tourism, entertainment and healthcare. The city is referred to as the maritime capital
+        of Bulgaria and headquarters the Bulgarian Navy and merchant marine. In 2008, Varna was
+        designated seat of the Black Sea Euroregion by the Council of Europe. In 2014,
+        Varna was awarded the title of European Youth Capital 2017. The oldest gold treasure in
+        the world, belonging to the Varna culture, was discovered in the Varna Necropolis and dates
+        to 4200–4600 BC.</string>
+    <string name="varna_tab">Varna City</string>
+    <string name="hotels_tab">Hotels</string>
+    <string name="attractions_tab">Attractions</string>
+    <string name="garden_tab">Gardens &amp; Parks</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_button">Go To Locations</string>
+    <string name="international_hotel"><![CDATA[INTERNATIONAL Hotel Casino & Tower Suites]]></string>
+    <string name="international_short"><![CDATA[The freshly renovated, 5 star INTERNATIONAL Hotel Casino & Tower Suites is situated only meters from the beach of Golden Sands]]></string>
+    <string name="internaitonal_stars">5 Stars</string>
+    <string name="international_description"><![CDATA[The freshly renovated, 5 star INTERNATIONAL Hotel Casino & Tower Suites is situated only meters from the beach of Golden Sands, Bulgaria and 17 km from Varna city center. The property features a mix of 325 deluxe, superior rooms and suites, with stunning park and sea views. Guests can enjoy our extensive Spa services, 24-hour Casino access and entertainment, dedicated Concierge team, Shopping center, Kids Club, Wi-Fi and complimentary car-park facilities, guaranteed to make your stay magnificent and memorable.]]></string>
+    <string name="international_phone">+359 896 666111</string>
+    <string name="international_email">reservations@interhc.com</string>
+    <string name="golden_name">Golden Tulip</string>
+    <string name="golden_short">Golden Tulip Varna is a classic 4 star hotel, located downtown Varna City, only 7 km away from Varna Airpor</string>
+    <string name="golden_stars">4 Stars</string>
+    <string name="golden_description">Golden Tulip Varna is a classic 4 star hotel, located downtown Varna City, only 7 km away from Varna Airport and 300 m from the symbol of the city – the Cathedral “Assumption of the Holy Virgin”. Location of the Hotel benefits both business and leisure travelers as the property is located in the proximity of most of the public amenities and it is easily accessible even in hours of heavy traffic. As one of the oldest cities in Europe, Varna has preserved  remains and artifacts from ancient times and many of them are located within walking distance -  the Oldest Gold Treasure in the World is exhibited in the Historical Museum, which is only 700 meters away.</string>
+    <string name="golden_phone">+359 896 233454</string>
+    <string name="golden_email">hotelTulip@gmail.com</string>
+    <string name="divesta_name">Hotel Divesta</string>
+    <string name="divesta_short">HOTEL DIVESTA THE PERFECT PLACE FOR YOUR HOLIDAY AND BUSINESS TRIP IN THE HEART OF VARNA</string>
+    <string name="divesta_stars">4 Stars</string>
+    <string name="divesta_description">Hotel “Divesta” is a city hotel providing luxury, style, and coziness in an urban environment, only a minute away from downtown Varna. Here you can find everything you may need for your perfect stay whether you are on a business trip or on a holiday. The restaurant, the Lobby bar and our panoramic Sky bar will charm you with the delicious dishes, polite and friendly staff, and pleasant atmosphere. The conference room is at your disposal daily for business meetings, trainings etc.</string>
+    <string name="divesta_phone">+359 878 888111</string>
+    <string name="divesta_email">divestaVarna@gmail.com</string>
+    <string name="atlant_name">Hotel Atlant</string>
+    <string name="atlant_short">Hotel Atlant welcomed its first visitors on the 22nd of May in 2005. Since than hotel’s staff offer its guests high-quality service with a maximum of comfort.</string>
+    <string name="atlant_starts">4 Stars</string>
+    <string name="atlant_description">Atlant Hotel is situated in the western part of Sts Constantine and Helena Resort and only 190 meters of the beach.The hotel has got central air conditioning, automatic telephone exchange,cable Internet and TV network, lift and 28 double rooms, 6 suites and one VIP apartment. The modern and stylish appointment, combined with warm and tender tones of the interior, will predispose you to a real and complete rest. In the inner yard of the hotel is located a pool with healing mineral water with 28°C temperature, springing from 1800 m depth. Hotel Atlant welcomed its first visitors on the 22nd of May in 2005. Since than hotel’s staff offer its guests high-quality service with a maximum of comfort, convenience and pleasure. Here you can enjoy the comfort, tranquillity and excellent opportunities for an unforgettable holiday. Hotel Atlant offers excellent opportunities for mind and body relaxation.</string>
+    <string name="atlant_phone">+359 889 437890</string>
+    <string name="atlant_email">atplant@reserv.bg</string>
+    <string name="panorama_name">Panorama Hotel</string>
+    <string name="panorama_short">The hotel is right next to the beach and within a walking distance to downtown business, shopping and entertainment.</string>
+    <string name="panorama_stars">4 Stars</string>
+    <string name="panorama_description">Panorama Hotel Varna is located in the city center of Varna, on the seaside Primorski Blvd., offering a splendid view over the Marine garden and the Varna bay. The hotel is right next to the beach and within a walking distance to downtown business, shopping and entertainment. Take a tour of the hotel facilities or send a reservation note by using the navigation above.</string>
+    <string name="panorama_phone">+359 897 751132</string>
+    <string name="panorama_email">panorama@reserv.bg</string>
+    <string name="stone_forest_name">The Stone Forest</string>
+    <string name="stone_forest_short">The Stone Desert, is a desert-like rock phenomenon located on the north west Varna Province border in Bulgaria</string>
+    <string name="stone_forest_extra"><![CDATA[Ancient Ruins, Sights & Landmarks]]></string>
+    <string name="stone_forest_description">For thousands of years the nature has carved stone pieces in order to turn them into impressive sculptures, which look like people, animals, monsters, mythical creatures, etc. “The Stone Guards”, “The Camel”, “The Throne”, “The Stone Forest” are names of just a part of these natural pieces of art.The ensemble “Dikilitash Group” is the most famous and attractive for the tourists. It is situated at about 18 km west from Varna and is easily accessible from Route Е70. The complex consists of more than 300 different in size columns, situated in a stripe with sizes 850 meters x 120 meters, and about 50 structures are situated in a smaller area to the south. Some of the columns are broken in two or three parts, other are lying on the ground as if they had been uprooted from their places, and others form interesting sculpture groups.</string>
+    <string name="dolphinarium_name">Dolphinarium</string>
+    <string name="dolphinarium_short">Festa Dolphinarium is the only attraction of its kind in Bulgaria. It is situated amidst the greenery of the Seaside Garden of Varna</string>
+    <string name="dolphinarium_extra">Aquariums</string>
+    <string name="dolphinarium_description">Festa Dolphinarium is the only attraction of its kind in Bulgaria. It is situated amidst the greenery of the Seaside Garden of Varna and offers a wonderful view over the sea. The Dolphinarium was inaugurated on 11.08.1984 and quickly became a symbol of Varna and a landmark of Bulgarian tourism. The Dolphinarium is a permanent site on the agenda of all visitors of the Black Sea coast. The building impresses with its futuristic structure and glass-and-aluminum front wall. The Dolphinarium building was designed by a team led by renowned architect Simeon Saraliev. The building itself is a light spatial structure shaped as a glass cube of walls 30 meters long and 14 meters high. Interesting is the fact that the earthworks at installation floor and pools were done after the bearing roof structure had been mounted.</string>
+    <string name="aquarium_name">Aquarium</string>
+    <string name="aquarium_short">Hundreds of species of fishes including mollusks, actinides, crabs and periwinkles were featured in the aquarium.</string>
+    <string name="aquarium_extra">Aquariums</string>
+    <string name="aquarium_description">Hundreds of species of fishes including mollusks, actinides, crabs and periwinkles were featured in the aquarium. Various species of fresh water river fish were also added to the aquarium. Being a novel attraction, the aquarium pulled large crowds from various parts of the country. Children were especially attracted to the huge variety of exotic fish that they had never ever seen before. Youngsters and adults alike were fascinated by the entertainment and educational value that the aquarium offered to its visitors. The Varna aquarium and the Sea Garden itself became one of the most popular and frequently visited attractions in the city.</string>
+    <string name="observatory_name">Astronomical observatory \"Nicolaus Copernicus\"</string>
+    <string name="observatory_short">The observatory is the first of this type in Bulgaria. The diameter of the coupon is 10,5 m. It is managed from the lector’s deck and can project over the coupon 5500 stars.</string>
+    <string name="observatory_extra">Science</string>
+    <string name="observatory_description">The blast - off to the first artificial satellite of the Earth, provoke a huge interest in Bulgaria and this is the main reason for the formation of lots of clubs, devoted to the space. The enthusiasm was the reason to be established in the town of Varna in 1960 the first astronaut and astronomic club. Only a year later to the club was given the old Summer Theater in the central part of the sea garden in Varna. On 22 th. of May 1968 was opened the first astronomical complex in Bulgaria, named after Nikolai Kopernik. It consists of astronomical observatory, planetarium and a tower with Phuko’s pendulum.</string>
+    <string name="cathedral_name">The \"Assumption of the Mother of God\" Cathedral</string>
+    <string name="cathedral_short">The cathedral in Varna is one of the symbols of the city. It is situated on “St. Cyril and St. Methodius” square in the center of Varna</string>
+    <string name="cathedral_extra">Temples</string>
+    <string name="cathedral_description">The cathedral in Varna is one of the symbols of the city. It is situated on “St. Cyril and St. Methodius” square in the center of Varna. The view from the belfry towards the city is splendid, but you have to overcome the 133 stairs of the narrow caracol. The first stone upon the construction of the temple was placed by Prince Alexander I of Battenberg (1857 - 1893) in 1880. After the consecration, the prince reprieved all the prisoners from the Varna prison, for which three months of their sentences were remaining. The name that was chosen, The Assumption of Holy Mother, was to the memory of the Russian Empress Maria Alexanrovna, benefactor of Bulgaria and aunt of the Prince.</string>
+    <string name="sea_garden_name">Sea Garden</string>
+    <string name="sea_garden_short">Nowadays the Marine Gardens form an imposing park where you can visit the Natural Science Museum, the Naval Museum, the Copernicus Astronomy Complex planetarium etc.</string>
+    <string name="sea_garden_extra">Parks and Gardens</string>
+    <string name="sea_garden_description">Nowadays the Marine Gardens form an imposing park where you can visit the Natural Science Museum, the Naval Museum, the Copernicus Astronomy Complex planetarium, the first in the country, the zoo and the Terrarium. Here one can find the only Dolphinarium and Aquarium in the country. There are also a swimming pool, tennis court, an open-air theater and a new children\'s complex (opened on 1 May 2002) with a lot of amusements: water wheels, slide, archery, trampoline. Along the alley, which runs parallel to the coastline, there are a number of small cafes and restaurants, offering seafood specialties as well as attractive discos.</string>
+    <string name="asparuhovo_name">Park Asparuhovo</string>
+    <string name="asparuhovo_short">Nowadays Asparuhovo park is a nice place for strolls and relaxation. Its alleys are asphalted and equipped with beautiful benches.</string>
+    <string name="asparuhovo_extra">Parks and Gardens</string>
+    <string name="asparuhovo_description">In 1935 the design of Asparuhovo park started with contruction of a specialised portal at the main entrance of the park. Тhe monument the founder of Bulgaria- Han Asparoukh is situated about 100 m away from the entrance of the park. It`s made by the renowned sculptor Kiril Georgiev. Nowadays Asparuhovo park is a nice place for strolls and relaxation. Its alleys are asphalted and equipped with beautiful benches. Trees and shrubs are illuminated with spectacular lighting solutions.</string>
+    <string name="zlatni_name">Nature park “Zlatni Piasaci”</string>
+    <string name="zlatni_short">The Park was declared as protected area for conservation and protection of valuable habitats, flora, fauna and specific landscapes in 1943.</string>
+    <string name="zlatni_extra">Parks and Gardens</string>
+    <string name="zlatni_description">Zlatni Pyasatsi Nature Park is the smallest Nature Park (13.2 sq.km) in Bulgaria. The Park was declared as protected area for conservation and protection of valuable habitats, flora, fauna and specific landscapes in 1943. The Park is part of the European network Natura 2000 as a Special Area of Conservation named Zlatni Pyasatsi. The Nature Park is situated 17 km northeast from Varna. The area is parallel to the coastal line, forms the west border of the resort Golden Sands [Zlatni Pyasatsi] and reaches the Kranevo village in north. Parks average length is 9.2 km and average width – 1.2 km. The highest point is Chiplak Tepe (269.3 m a.s.l.), and the average altitude is 110 m. The idea for the establishment of a Park in thе area dates back to 1915, but it came into reality on 3 February 1943, when the Ministry of Agriculture and State Property declared 2.4 sq.km of the State Forest “Hachuka” for a People’s Park Zlatni pyassatsi [Golden Sands]. The Park is the second declared Park in Bulgaria, after Nature Park Vitosha. When in 1943 was declared the Nature Park Zlatni pyasatsi [Golden Sands], no one assumed that 13 years later in its seaside area will be built one of the biggest Bulgarian sea resorts. The Golden Sands resort took also the name of the Nature Park – Zlatni Pyasatsi.</string>
+    <string name="botanical_name">The University Botanical Garden</string>
+    <string name="botanical_short">This is the first eco park in the country which combines artificial and natural ecological systems. The park is situated on an area of 360 decares.</string>
+    <string name="botanical_extra">Parks and Gardens</string>
+    <string name="botanical_description">This is the first eco park in the country which combines artificial and natural ecological systems. The park is situated on an area of 360 decares. The plant collections include more than 300 species of exotic trees and bushes, and the herbaceous plants are more than 100 species. The botanical garden is also famous for its rich collection of irises, which are more than 250 variations. The ecological park offers exotic meetings with plants from the whole world: sea oaks, tulip-tree, ginkgo biloba, sterculia, parrotia persica, broussonetia papyrifera, evergreen oak, mamont tree and many others. The Academic Jockey Club is situated in the university botanical garden in the city of Varna. It offers horse-riding lessons on a manege with an instructor, free riding for advanced people, tours with a carriage, with a convertible car, with a painted cart – on the route of the ecological park. Every year Varna organizes the celebration of Todorov Den (The Day of Todor) – traditional races, competitions with horse teams, donkey carriages, prizes for the most beautiful horses. An information center with a botanical market is suituated at the entrance of the Ecological Park, in which you can find information about current and upcoming novelties; to buy seeding for flowers, evergreen trees and bushes, exotic and various house and garden plants.</string>
+</resources>
